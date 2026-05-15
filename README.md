@@ -16,10 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
+ 
   &nbsp;¡Hola! Bienvenido a mi rincón en GitHub&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJyOXJrOWdtaW9meTcwbDFkcnNvZWFidXNkaXlsZjYwbHIxMG56dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
-</p>
+  
 
 ---
 
