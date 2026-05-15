@@ -1,18 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Francisco%20%C3%81lvarez%20Varas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20Junior%20%C2%B7%20Valencia&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:faf9f5,40:d97757,100:141413&height=200&section=header&text=Francisco%20%C3%81lvarez%20Varas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20Junior%20%C2%B7%20Valencia&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frankalvarezv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:francisco92varas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Ubicación-Valencia%2C%20ES-1B7F3F?style=flat" />
-  <img src="https://img.shields.io/badge/Estado-Buscando%20activamente-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Ubicación-Valencia%2C%20ES-788c5d?style=flat" />
+  <img src="https://img.shields.io/badge/Estado-Buscando%20activamente-d97757?style=flat" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Engineer+Junior+%C2%B7+Valencia;3%2B+a%C3%B1os+en+SEO+t%C3%A9cnico+%E2%86%92+ahora+Data;Stack%3A+Python+%C2%B7+SQL+%C2%B7+dbt+%C2%B7+Airflow+%C2%B7+Spark;Buscando+mi+primer+rol+Data+en+Valencia+o+remoto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=D97757&center=true&vCenter=true&width=650&lines=Data+Engineer+Junior+%C2%B7+Valencia+%E2%9C%A8;3%2B+a%C3%B1os+en+SEO+t%C3%A9cnico+%E2%86%92+ahora+Data;Stack%3A+Python+%C2%B7+SQL+%C2%B7+dbt+%C2%B7+Airflow+%C2%B7+Spark;Buscando+mi+primer+rol+Data+en+Valencia+o+remoto+%E2%9C%A8" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
+  &nbsp;¡Hola! Bienvenido a mi rincón en GitHub&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJyOXJrOWdtaW9meTcwbDFkcnNvZWFidXNkaXlsZjYwbHIxMG56dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
 </p>
 
 ---
@@ -73,14 +79,14 @@ Lo que me diferencia: ya he trabajado con datos en producción (Google Search Co
 
 ---
 
-### Mi actividad en GitHub
+### Antivirus Protocol — Mi stack vs MALWARE.exe
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoAlvarezVaras&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuciones%20%C3%BAltimos%20meses" />
+  <img src="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/main/stack-battle.svg" alt="Mi stack data atacando un malware" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -94,5 +100,9 @@ Si tienes una oportunidad para Data Engineer / Analytics Engineer / Data Analyst
 - **Teléfono**: +34 633 912 726
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+  <sub>✨ Hecho con curiosidad, café y un poco de ayuda de <a href="https://claude.ai">Claude</a> ✨</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,60:d97757,100:faf9f5&height=120&section=footer" />
 </p>
