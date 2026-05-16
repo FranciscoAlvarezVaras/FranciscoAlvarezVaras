@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=D97757&center=true&vCenter=true&width=650&lines=Data+Engineer+Junior+%C2%B7+Valencia+%E2%9C%A8;3%2B+a%C3%B1os+en+SEO+t%C3%A9cnico+%E2%86%92+Ahora+Data;Stack%3A+Python+%C2%B7+SQL+%C2%B7+dbt+%C2%B7+Airflow+%C2%B7+Spark;Buscando+mi+primer+rol+Data+en+Valencia+o+remoto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=D97757&center=true&vCenter=true&width=650&lines=Data+Engineer+Junior+%C2%B7+Valencia;3%2B+a%C3%B1os+en+SEO+t%C3%A9cnico+%E2%86%92+Ahora+Data;Stack%3A+Python+%C2%B7+SQL+%C2%B7+dbt+%C2%B7+Airflow+%C2%B7+Spark;Buscando+mi+primer+rol+Data+en+Valencia+o+remoto" />
   </a>
 </p>
 
