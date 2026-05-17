@@ -19,7 +19,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      SOBRE MÍ
 ══════════════════════════════════════════════════════════════ -->
-## 🧭 Sobre mí
+## Sobre mí
 
 Vengo de **3+ años en SEO técnico y analítica web** y estoy haciendo la transición full a **Data Engineering**. Mientras curso el **MSc Data Analytics en EDEM** (Valencia, 25-26), construyo proyectos *end-to-end* en público para enseñar mi forma de pensar, no solo mi stack.
 
@@ -36,28 +36,28 @@ flowchart LR
 
 **Lo que me diferencia:** ya he trabajado con datos en producción (Search Console API, automatización de informes, experimentos sobre tráfico orgánico). Ahora aprendo a llevarlos a escala con stack moderno.
 
-> 🎯 **Busco:** primer rol como **Data Engineer / Analytics Engineer / Data Analyst** en Valencia o remoto.
+> **Busco:** primer rol como **Data Engineer / Analytics Engineer / Data Analyst** en Valencia o remoto.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      CURRENT FOCUS
 ══════════════════════════════════════════════════════════════ -->
-## 🛠️ Ahora mismo
+## Ahora mismo
 
-- 🔭 **Construyendo** un pipeline streaming Kafka → PySpark → Postgres dockerizado
-- 🌱 **Aprendiendo** Snowflake (SnowPro Core → Advanced Data Engineer)
-- 📚 **Cursando** MSc Data Analytics en EDEM (Valencia, 25-26)
-- 🛡️ **Explorando** ciberseguridad data-driven (S2 Grupo ENIGMA 13.0)
-- 💬 **Pregúntame sobre** modelado dbt, dashboards Looker Studio o cómo pasarte del SEO al data
+- Construyendo un pipeline streaming Kafka → PySpark → Postgres dockerizado
+- Preparando certificaciones **Google Cloud** (Associate Cloud Engineer → Professional Data Engineer)
+- Cursando MSc Data Analytics en EDEM (Valencia, 25-26)
+- Explorando ciberseguridad data-driven (S2 Grupo ENIGMA 13.0)
+- Pregúntame sobre modelado dbt, dashboards Looker Studio o cómo pasarte del SEO al data
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      STACK
 ══════════════════════════════════════════════════════════════ -->
-## 🧰 Stack técnico
+## Stack técnico
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h4>🐍 Lenguajes & Procesamiento</h4>
+      <h4>Lenguajes & Procesamiento</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
@@ -67,7 +67,7 @@ flowchart LR
       </p>
     </td>
     <td valign="top" width="33%">
-      <h4>📊 Data Stack</h4>
+      <h4>Data Stack</h4>
       <p>
         <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /><br/>
@@ -77,7 +77,7 @@ flowchart LR
       </p>
     </td>
     <td valign="top" width="33%">
-      <h4>☁️ Infra & Viz</h4>
+      <h4>Infra & Viz</h4>
       <p>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
@@ -91,65 +91,51 @@ flowchart LR
 </table>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     PROYECTOS — CARDS DINÁMICAS
+     PROYECTOS — solo tabla, sin pin cards
 ══════════════════════════════════════════════════════════════ -->
-## 🚀 Proyectos destacados
-
-<p>
-  <a href="https://github.com/FranciscoAlvarezVaras/seo-analytics-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoAlvarezVaras&repo=seo-analytics-pipeline&bg_color=141413&title_color=d97757&text_color=faf9f5&icon_color=788c5d&border_color=d97757" />
-  </a>
-  <a href="https://github.com/FranciscoAlvarezVaras/realtime-streaming-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoAlvarezVaras&repo=realtime-streaming-pipeline&bg_color=141413&title_color=d97757&text_color=faf9f5&icon_color=788c5d&border_color=d97757" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/FranciscoAlvarezVaras/orchestrated-etl-airflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoAlvarezVaras&repo=orchestrated-etl-airflow&bg_color=141413&title_color=d97757&text_color=faf9f5&icon_color=788c5d&border_color=d97757" />
-  </a>
-</p>
+## Proyectos destacados
 
 | Proyecto | Stack | Qué demuestra |
 |---|---|---|
-| 🔍 **[seo-analytics-pipeline](https://github.com/FranciscoAlvarezVaras/seo-analytics-pipeline)** | Python · GSC API · dbt · BigQuery · Looker Studio | Pipeline end-to-end: extracción, modelado en capas staging/marts, dashboard publicado |
-| ⚡ **[realtime-streaming-pipeline](https://github.com/FranciscoAlvarezVaras/realtime-streaming-pipeline)** | Kafka · PySpark · Postgres · Docker | Ingesta en tiempo real de un stream público, procesado con Structured Streaming, todo dockerizado |
-| 🔁 **[orchestrated-etl-airflow](https://github.com/FranciscoAlvarezVaras/orchestrated-etl-airflow)** | Airflow · dbt · BigQuery · Docker Compose | DAG diario que orquesta ingesta + modelado dbt + notificación Slack. Stack típico Analytics Engineering |
+| **[seo-analytics-pipeline](https://github.com/FranciscoAlvarezVaras/seo-analytics-pipeline)** | Python · GSC API · dbt · BigQuery · Looker Studio | Pipeline end-to-end: extracción, modelado en capas staging/marts, dashboard publicado |
+| **[realtime-streaming-pipeline](https://github.com/FranciscoAlvarezVaras/realtime-streaming-pipeline)** | Kafka · PySpark · Postgres · Docker | Ingesta en tiempo real de un stream público, procesado con Structured Streaming, todo dockerizado |
+| **[orchestrated-etl-airflow](https://github.com/FranciscoAlvarezVaras/orchestrated-etl-airflow)** | Airflow · dbt · BigQuery · Docker Compose | DAG diario que orquesta ingesta + modelado dbt + notificación Slack. Stack típico Analytics Engineering |
 
-> 📐 Cada proyecto incluye **diagrama de arquitectura**, instrucciones de despliegue y decisiones técnicas documentadas.
+> Cada proyecto incluye diagrama de arquitectura, instrucciones de despliegue y decisiones técnicas documentadas.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     CÓMO PIENSO — PRINCIPIOS
+     CÓMO PIENSO
 ══════════════════════════════════════════════════════════════ -->
-## 🧠 Cómo pienso los problemas
+## Cómo pienso los problemas
 
-> Los proyectos enseñan **qué** he construido. Estos principios enseñan **cómo** los abordo. Son las heurísticas que aplico cuando me siento delante de un pipeline en blanco.
+Los proyectos enseñan qué he construido; estos principios, cómo los abordo.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>♻️ Idempotencia por defecto</h4>
+      <strong>Idempotencia por defecto</strong><br/><br/>
       <sub>Los sinks deben tolerar reintentos sin duplicar. Prefiero un <code>UPSERT</code> con clave natural antes que confiar en garantías del orquestador. Cuesta poco y evita el 80% de incidentes nocturnos.</sub>
     </td>
     <td width="33%" valign="top">
-      <h4>💸 Coste vs. corrección</h4>
+      <strong>Coste vs. corrección</strong><br/><br/>
       <sub>Para datos que mutan retroactivamente (analytics, billing) prefiero <code>incremental + merge</code> sobre <code>full-refresh</code>, asumiendo el coste de tests de reconciliación. Reprocesar todo cada día es la respuesta fácil, no la buena.</sub>
     </td>
     <td width="33%" valign="top">
-      <h4>🏠 Local-first dev</h4>
+      <strong>Local-first dev</strong><br/><br/>
       <sub>Para portfolios, experimentos y onboarding: Docker Compose &gt; cloud. Reproducible en un comando, coste cero, sin secrets que mantener. El cloud entra cuando el proyecto justifica IaC seria.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4>📝 Documenta el porqué, no el qué</h4>
+      <strong>Documenta el porqué, no el qué</strong><br/><br/>
       <sub>El código ya dice <em>qué</em> hace. Un <code>DECISIONS.md</code> con <strong>problema → opciones → elección → trade-off</strong> es lo que ahorra horas al siguiente que toque el repo. Incluido yo dentro de 6 meses.</sub>
     </td>
     <td width="33%" valign="top">
-      <h4>⏰ Freshness &gt; coverage</h4>
-      <sub>En data pipelines lo que falla casi siempre es la frescura o la integridad de los datos, no la lógica de transformación. Mido SLAs y reconciliación antes que añadir tests unitarios al limit.</sub>
+      <strong>Freshness &gt; coverage</strong><br/><br/>
+      <sub>En data pipelines lo que falla casi siempre es la frescura o la integridad de los datos, no la lógica de transformación. Mido SLAs y reconciliación antes que añadir tests unitarios al límite.</sub>
     </td>
     <td width="33%" valign="top">
-      <h4>🔍 Observabilidad desde el día 1</h4>
+      <strong>Observabilidad desde el día 1</strong><br/><br/>
       <sub>Logs estructurados, métricas de filas in/out y alertas a Slack antes de pulir el modelo. Un pipeline sin observabilidad es una caja negra que solo descubres rota cuando alguien se queja.</sub>
     </td>
   </tr>
@@ -158,7 +144,7 @@ flowchart LR
 <!-- ╔══════════════════════════════════════════════════════════════╗
      STATS
 ══════════════════════════════════════════════════════════════ -->
-## 📈 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=FranciscoAlvarezVaras&show_icons=true&hide_border=true&count_private=true&bg_color=141413&title_color=d97757&text_color=faf9f5&icon_color=788c5d" />
@@ -176,7 +162,7 @@ flowchart LR
 <!-- ╔══════════════════════════════════════════════════════════════╗
      FORMACIÓN
 ══════════════════════════════════════════════════════════════ -->
-## 🎓 Formación
+## Formación
 
 | Programa | Centro | Año |
 |---|---|---|
@@ -187,11 +173,11 @@ flowchart LR
 <!-- ╔══════════════════════════════════════════════════════════════╗
      LEARNING STACK
 ══════════════════════════════════════════════════════════════ -->
-## 📚 Learning stack — en vivo
+## Learning stack — en vivo
 
-> Aprender en público es parte del trabajo. Esto es lo que estoy leyendo, cursando y certificando **ahora mismo**.
+Esto es lo que estoy leyendo, cursando y certificando ahora mismo.
 
-### 📖 Leyendo
+### Leyendo
 
 <table>
   <tr>
@@ -199,57 +185,56 @@ flowchart LR
       <strong>Designing Data-Intensive Applications</strong><br/>
       <sub>Martin Kleppmann · O'Reilly</sub><br/><br/>
       <code>██████░░░░░░░░░░ 38%</code><br/>
-      <sub>📍 Capítulo 4 — Encoding & Evolution</sub>
+      <sub>Capítulo 4 — Encoding & Evolution</sub>
     </td>
     <td width="50%" valign="top">
       <strong>Fundamentals of Data Engineering</strong><br/>
       <sub>Joe Reis & Matt Housley · O'Reilly</sub><br/><br/>
       <code>███████████░░░░░ 68%</code><br/>
-      <sub>📍 Parte III — Ingestion & Transformation</sub>
+      <sub>Parte III — Ingestion & Transformation</sub>
     </td>
   </tr>
 </table>
 
-### 🎓 Cursando
+### Cursando
 
 <p>
   <img src="https://img.shields.io/badge/MSc%20Data%20Analytics-EDEM-d97757?style=flat-square&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake%20Hands--On-en%20curso-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-en%20curso-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt%20Fundamentals-completado-FF694B?style=flat-square&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Iceberg-explorando-50E3C2?style=flat-square&logo=apache&logoColor=white" />
 </p>
 
-### 🎯 Roadmap de certificaciones
+### Roadmap de certificaciones — Google Cloud
 
 | Certificación | Estado | Target |
 |---|:---:|:---:|
-| 🟧 **SnowPro Core** | `█████░░░░░ 50%` En progreso | Q3 2026 |
-| ⬜ **SnowPro Advanced: Data Engineer** | `░░░░░░░░░░  0%` Siguiente | Q1 2027 |
-| ⬜ **dbt Analytics Engineering** | `░░░░░░░░░░  0%` Considerando | TBD |
-| ⬜ **Google Cloud Associate Data Practitioner** | `░░░░░░░░░░  0%` Considerando | TBD |
+| **Associate Cloud Engineer** | `███░░░░░░░ 30%` En progreso | Q3 2026 |
+| **Associate Data Practitioner** | `░░░░░░░░░░  0%` Siguiente | Q4 2026 |
+| **Professional Data Engineer** | `░░░░░░░░░░  0%` Meta | Q2 2027 |
 
-### 🧠 Topics que estoy explorando este mes
+### Topics que estoy explorando este mes
 
-`Apache Iceberg` · `dbt incremental models` · `data contracts` · `streaming con Spark Structured Streaming` · `observabilidad de pipelines (Great Expectations, Soda)`
+`BigQuery partitioning & clustering` · `dbt incremental models` · `data contracts` · `streaming con Spark Structured Streaming` · `observabilidad de pipelines (Great Expectations, Soda)`
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      CONTACTO
 ══════════════════════════════════════════════════════════════ -->
-## 📬 ¿Hablamos?
+## ¿Hablamos?
 
 Si tienes una oportunidad **Data Engineer / Analytics Engineer / Data Analyst Junior** en Valencia o remoto, escríbeme:
 
 <table>
   <tr>
-    <td>📧 <strong>Email</strong></td>
+    <td><strong>Email</strong></td>
     <td><a href="mailto:francisco92varas@gmail.com">francisco92varas@gmail.com</a></td>
   </tr>
   <tr>
-    <td>💼 <strong>LinkedIn</strong></td>
+    <td><strong>LinkedIn</strong></td>
     <td><a href="https://www.linkedin.com/in/frankalvarezv/">linkedin.com/in/frankalvarezv</a></td>
   </tr>
   <tr>
-    <td>📱 <strong>Teléfono</strong></td>
+    <td><strong>Teléfono</strong></td>
     <td>+34 633 912 726</td>
   </tr>
 </table>
@@ -263,10 +248,7 @@ Si tienes una oportunidad **Data Engineer / Analytics Engineer / Data Analyst Ju
 </p>
 
 <p align="center">
-  <sub>✨ Hecho con curiosidad, café y un poco de ayuda de Internet</sub>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,60:d97757,100:faf9f5&height=120&section=footer" />
 </p>
+
 
