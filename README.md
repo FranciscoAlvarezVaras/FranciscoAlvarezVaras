@@ -1,4 +1,4 @@
-[Francisco Álvarez Varas](https://capsule-render.vercel.app/api?type=transparent&fontColor=1E1B4B&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130)
+![Francisco Álvarez Varas](https://capsule-render.vercel.app/api?type=transparent&fontColor=800020&fontSize=90&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=180)
 
 *Data engineer · Valencia, Spain · `open to work`*
 
