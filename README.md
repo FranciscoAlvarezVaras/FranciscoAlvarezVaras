@@ -2,7 +2,7 @@
 
 *Data engineer · Valencia, Spain · `open to work`*
 
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=8B5CF6)](mailto:francisco92varas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=800020)](mailto:francisco92varas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=10B981)](https://www.linkedin.com/in/frankalvarezv/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=faf9f5&labelColor=1E1B4B)](https://github.com/FranciscoAlvarezVaras)
 
@@ -54,10 +54,10 @@ API de microservicios para una tienda urbana de plantas: **FastAPI + PostgreSQL 
 
 **Infra y workflows**
 
-![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=faf9f5&labelColor=8B5CF6)
-![Terraform](https://img.shields.io/badge/Terraform-8B5CF6?style=for-the-badge&logo=terraform&logoColor=faf9f5&labelColor=8B5CF6)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=faf9f5&labelColor=8B5CF6)
-![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=faf9f5&labelColor=8B5CF6)
+![Docker](https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=faf9f5&labelColor=800020)
+![Terraform](https://img.shields.io/badge/Terraform-800020?style=for-the-badge&logo=terraform&logoColor=faf9f5&labelColor=800020)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-800020?style=for-the-badge&logo=githubactions&logoColor=faf9f5&labelColor=800020)
+![Linux](https://img.shields.io/badge/Linux-800020?style=for-the-badge&logo=linux&logoColor=faf9f5&labelColor=800020)
 
 **Visualización**
 
@@ -74,7 +74,7 @@ API de microservicios para una tienda urbana de plantas: **FastAPI + PostgreSQL 
 
 ---
 
-![A random programming quote, refreshed on every visit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades_of_purple&border=8B5CF6)
+![A random programming quote, refreshed on every visit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=800020)
 
 *An idea I keep bumping into — refreshes on every visit.*
 
@@ -109,6 +109,4 @@ Si crees que encajo en algo que tienes abierto, escríbeme. Respondo en menos de
 <br>
 
 ![Snake animation](https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg)
-
-
 
