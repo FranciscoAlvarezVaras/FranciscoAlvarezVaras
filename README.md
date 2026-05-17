@@ -1,10 +1,10 @@
-![Francisco Álvarez Varas](https://capsule-render.vercel.app/api?type=transparent&fontColor=141413&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130)
+[Francisco Álvarez Varas](https://capsule-render.vercel.app/api?type=transparent&fontColor=1E1B4B&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130)
 
 *Data engineer · Valencia, Spain · `open to work`*
 
-[![Email](https://img.shields.io/badge/Email-d97757?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=d97757)](mailto:francisco92varas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-788c5d?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=788c5d)](https://www.linkedin.com/in/frankalvarezv/)
-[![GitHub](https://img.shields.io/badge/GitHub-141413?style=for-the-badge&logo=github&logoColor=faf9f5&labelColor=141413)](https://github.com/FranciscoAlvarezVaras)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=8B5CF6)](mailto:francisco92varas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=10B981)](https://www.linkedin.com/in/frankalvarezv/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=faf9f5&labelColor=1E1B4B)](https://github.com/FranciscoAlvarezVaras)
 
 ---
 
@@ -36,33 +36,33 @@ API de microservicios para una tienda urbana de plantas: **FastAPI + PostgreSQL 
 
 **Lenguajes y datos**
 
-![Python](https://img.shields.io/badge/Python-141413?style=for-the-badge&logo=python&logoColor=faf9f5)
-![SQL](https://img.shields.io/badge/SQL-141413?style=for-the-badge&logo=postgresql&logoColor=faf9f5)
-![dbt](https://img.shields.io/badge/dbt-141413?style=for-the-badge&logo=dbt&logoColor=faf9f5)
-![FastAPI](https://img.shields.io/badge/FastAPI-141413?style=for-the-badge&logo=fastapi&logoColor=faf9f5)
-![TypeScript](https://img.shields.io/badge/TypeScript-141413?style=for-the-badge&logo=typescript&logoColor=faf9f5)
+![Python](https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=faf9f5)
+![SQL](https://img.shields.io/badge/SQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=faf9f5)
+![dbt](https://img.shields.io/badge/dbt-1E1B4B?style=for-the-badge&logo=dbt&logoColor=faf9f5)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=faf9f5)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=faf9f5)
 
 **Cloud y streaming**
 
-![GCP](https://img.shields.io/badge/Google%20Cloud-788c5d?style=for-the-badge&logo=googlecloud&logoColor=faf9f5&labelColor=788c5d)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-788c5d?style=for-the-badge&labelColor=788c5d)
-![Dataflow](https://img.shields.io/badge/Dataflow-788c5d?style=for-the-badge&labelColor=788c5d)
-![BigQuery](https://img.shields.io/badge/BigQuery-788c5d?style=for-the-badge&labelColor=788c5d)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-788c5d?style=for-the-badge&labelColor=788c5d)
-![Firestore](https://img.shields.io/badge/Firestore-788c5d?style=for-the-badge&labelColor=788c5d)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-788c5d?style=for-the-badge&labelColor=788c5d)
+![GCP](https://img.shields.io/badge/Google%20Cloud-10B981?style=for-the-badge&logo=googlecloud&logoColor=faf9f5&labelColor=10B981)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-10B981?style=for-the-badge&labelColor=10B981)
+![Dataflow](https://img.shields.io/badge/Dataflow-10B981?style=for-the-badge&labelColor=10B981)
+![BigQuery](https://img.shields.io/badge/BigQuery-10B981?style=for-the-badge&labelColor=10B981)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-10B981?style=for-the-badge&labelColor=10B981)
+![Firestore](https://img.shields.io/badge/Firestore-10B981?style=for-the-badge&labelColor=10B981)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-10B981?style=for-the-badge&labelColor=10B981)
 
 **Infra y workflows**
 
-![Docker](https://img.shields.io/badge/Docker-d97757?style=for-the-badge&logo=docker&logoColor=faf9f5&labelColor=d97757)
-![Terraform](https://img.shields.io/badge/Terraform-d97757?style=for-the-badge&logo=terraform&logoColor=faf9f5&labelColor=d97757)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-d97757?style=for-the-badge&logo=githubactions&logoColor=faf9f5&labelColor=d97757)
-![Linux](https://img.shields.io/badge/Linux-d97757?style=for-the-badge&logo=linux&logoColor=faf9f5&labelColor=d97757)
+![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=faf9f5&labelColor=8B5CF6)
+![Terraform](https://img.shields.io/badge/Terraform-8B5CF6?style=for-the-badge&logo=terraform&logoColor=faf9f5&labelColor=8B5CF6)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=faf9f5&labelColor=8B5CF6)
+![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=faf9f5&labelColor=8B5CF6)
 
 **Visualización**
 
-![Looker%20Studio](https://img.shields.io/badge/Looker%20Studio-141413?style=for-the-badge&logo=looker&logoColor=faf9f5)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-141413?style=for-the-badge&logo=powerbi&logoColor=faf9f5)
+![Looker%20Studio](https://img.shields.io/badge/Looker%20Studio-1E1B4B?style=for-the-badge&logo=looker&logoColor=faf9f5)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-1E1B4B?style=for-the-badge&logo=powerbi&logoColor=faf9f5)
 
 ---
 
@@ -74,7 +74,7 @@ API de microservicios para una tienda urbana de plantas: **FastAPI + PostgreSQL 
 
 ---
 
-![A random programming quote, refreshed on every visit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&border=d97757)
+![A random programming quote, refreshed on every visit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades_of_purple&border=8B5CF6)
 
 *An idea I keep bumping into — refreshes on every visit.*
 
@@ -109,5 +109,6 @@ Si crees que encajo en algo que tienes abierto, escríbeme. Respondo en menos de
 <br>
 
 ![Snake animation](https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg)
+
 
 
