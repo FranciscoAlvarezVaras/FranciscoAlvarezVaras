@@ -79,7 +79,9 @@ Trabajo principalmente en `Python` y `SQL`, con `dbt`, `Airflow` y `PySpark` par
 ## Education
 
 **MSc Data Analytics** — EDEM Escuela de Empresarios, Valencia · 2025-2026 *(en curso)*
+
 **MSc Neuromarketing** — UNIR · 2020-2021
+
 **BSc Business** — Universidad Nueva Esparta · 2015-2019
 
 <br/>
