@@ -24,7 +24,7 @@ Plataforma full-stack para hackathones sobre **GCP**. Backend en **FastAPI** con
 
 #### WalkRisk
 
-Juego de estrategia territorial geolocalizado — Risk sobre el mundo real. Stack GCP event-driven: **Pub/Sub → Dataflow → Firestore** en streaming. Backend en FastAPI, frontend con Leaflet, narrativa generada con la **Claude API**. Infraestructura en Terraform con remote state en GCS. &nbsp;[→ proyecto en curso](https://github.com/FranciscoAlvarezVaras)
+Juego de estrategia territorial geolocalizado — Risk sobre el mundo real. Stack GCP event-driven: **Pub/Sub → Dataflow → Firestore** en streaming. Backend en FastAPI, frontend con Leaflet, narrativa generada con la **Claude API**. Infraestructura en Terraform con remote state en GCS. &nbsp;[→ diseño y roadmap](https://github.com/FranciscoAlvarezVaras/WalkRisk)
 
 #### EdemGarden
 
@@ -70,7 +70,7 @@ API de microservicios para una tienda urbana de plantas: **FastAPI + PostgreSQL 
 
 - 🎤 Defendiendo **EDEM Student Hub** ante el tribunal del Hackathon EDEM-GFT 2026.
 - ☁️ Preparando la certificación **Google Cloud Associate Cloud Engineer**.
-- 📊 Iterando sobre **WalkRisk**: limpiando el pipeline Pub/Sub → Dataflow y refactorizando la capa Firestore.
+- 📊 Diseñando **WalkRisk**: cerrando el doc de arquitectura y planificando los módulos Terraform.
 
 ---
 
