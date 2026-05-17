@@ -1,34 +1,10 @@
-<br/>
+![Francisco Álvarez Varas](https://capsule-render.vercel.app/api?type=transparent&fontColor=141413&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=faf9f5&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=141413&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130" />
-    <img alt="Francisco Álvarez Varas" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=141413&fontSize=58&fontAlignY=50&text=Francisco%20%C3%81lvarez%20Varas&height=130" />
-  </picture>
-</p>
+*Data engineer · Valencia, Spain · `open to work`*
 
-<p align="center">
-  <em>Data engineer · Valencia, Spain</em>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="mailto:francisco92varas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d97757?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=d97757" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/frankalvarezv/">
-    <img src="https://img.shields.io/badge/LinkedIn-788c5d?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=788c5d" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/FranciscoAlvarezVaras">
-    <img src="https://img.shields.io/badge/GitHub-141413?style=for-the-badge&logo=github&logoColor=faf9f5&labelColor=141413" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
+[![Email](https://img.shields.io/badge/Email-d97757?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=d97757)](mailto:francisco92varas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-788c5d?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=788c5d)](https://www.linkedin.com/in/frankalvarezv/)
+[![GitHub](https://img.shields.io/badge/GitHub-141413?style=for-the-badge&logo=github&logoColor=faf9f5&labelColor=141413)](https://github.com/FranciscoAlvarezVaras)
 
 ---
 
@@ -38,47 +14,69 @@ Empecé en SEO técnico hace tres años pensando que mi trabajo era hacer que Go
 
 Esa transición — de optimizar páginas a diseñar la infraestructura que las mide — es lo que me trajo al **Máster en Data Analytics de EDEM** y a este perfil. Hoy estoy buscando mi primer rol como **Data Engineer, Analytics Engineer o Data Analyst**, en Valencia o remoto.
 
-<br/>
-
 ---
 
 ## What I'm building
 
-#### Real-time streaming pipeline
-Un stream público (cripto / Reddit) entrando por Kafka, procesado con PySpark Structured Streaming, persistido en Postgres con escrituras idempotentes. Todo dockerizado, reproducible en un comando.
-<sub><a href="https://github.com/FranciscoAlvarezVaras/realtime-streaming-pipeline">→ github.com/.../realtime-streaming-pipeline</a></sub>
+#### EDEM Student Hub &nbsp;·&nbsp; *Hackathon EDEM-GFT 2026*
 
-#### SEO analytics pipeline
-Extracción diaria de la Google Search Console API con Python, modelado en dbt sobre BigQuery — capas staging y marts —, y dashboard publicado en Looker Studio. El proyecto que cierra el círculo de mi transición desde SEO.
-<sub><a href="https://github.com/FranciscoAlvarezVaras/seo-analytics-pipeline">→ github.com/.../seo-analytics-pipeline</a></sub>
+Plataforma full-stack para hackathones sobre **GCP**. Backend en **FastAPI** con JWT auth, agente conversacional **Google ADK + Gemini 2.5 Flash** con 34 tools, **Cloud SQL** (PostgreSQL, 24 tablas), **Vertex AI Vector Search**, **Firestore** para memoria de sesión, **Terraform** y **GitHub Actions** desplegando tres servicios sobre **Cloud Run**. Equipo de 6 personas; yo cubrí backend y arquitectura. &nbsp;[→ repo del grupo](https://github.com/celiiasarrio/DataIAProject_3)
 
-#### Orchestrated ETL with Airflow
-Un DAG diario que orquesta ingesta, transformación con dbt y notificación a Slack. Stack típico de Analytics Engineering, montado para ser ejecutable en local con Docker Compose.
-<sub><a href="https://github.com/FranciscoAlvarezVaras/orchestrated-etl-airflow">→ github.com/.../orchestrated-etl-airflow</a></sub>
+#### WalkRisk
 
-<br/>
+Juego de estrategia territorial geolocalizado — Risk sobre el mundo real. Stack GCP event-driven: **Pub/Sub → Dataflow → Firestore** en streaming. Backend en FastAPI, frontend con Leaflet, narrativa generada con la **Claude API**. Infraestructura en Terraform con remote state en GCS. &nbsp;[→ proyecto en curso](https://github.com/FranciscoAlvarezVaras)
+
+#### EdemGarden
+
+API de microservicios para una tienda urbana de plantas: **FastAPI + PostgreSQL + Docker Compose**, modelado relacional y orquestación reproducible en un comando. Proyecto académico que cierra el bloque de backend del máster.
 
 ---
 
-## Tech
+## Stack
 
-Trabajo principalmente en `Python` y `SQL`, con `dbt`, `Airflow` y `PySpark` para mover y transformar datos. Mi cloud es `GCP` (`BigQuery`, `Cloud Storage`, `Cloud Run`), y el día a día pasa por `Docker`, `Git` y `Linux`. Para visualización tiro de `Looker Studio` o `Power BI`.
+**Lenguajes y datos**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-141413?style=for-the-badge&logo=python&logoColor=faf9f5)
+![SQL](https://img.shields.io/badge/SQL-141413?style=for-the-badge&logo=postgresql&logoColor=faf9f5)
+![dbt](https://img.shields.io/badge/dbt-141413?style=for-the-badge&logo=dbt&logoColor=faf9f5)
+![FastAPI](https://img.shields.io/badge/FastAPI-141413?style=for-the-badge&logo=fastapi&logoColor=faf9f5)
+![TypeScript](https://img.shields.io/badge/TypeScript-141413?style=for-the-badge&logo=typescript&logoColor=faf9f5)
+
+**Cloud y streaming**
+
+![GCP](https://img.shields.io/badge/Google%20Cloud-788c5d?style=for-the-badge&logo=googlecloud&logoColor=faf9f5&labelColor=788c5d)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-788c5d?style=for-the-badge&labelColor=788c5d)
+![Dataflow](https://img.shields.io/badge/Dataflow-788c5d?style=for-the-badge&labelColor=788c5d)
+![BigQuery](https://img.shields.io/badge/BigQuery-788c5d?style=for-the-badge&labelColor=788c5d)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-788c5d?style=for-the-badge&labelColor=788c5d)
+![Firestore](https://img.shields.io/badge/Firestore-788c5d?style=for-the-badge&labelColor=788c5d)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-788c5d?style=for-the-badge&labelColor=788c5d)
+
+**Infra y workflows**
+
+![Docker](https://img.shields.io/badge/Docker-d97757?style=for-the-badge&logo=docker&logoColor=faf9f5&labelColor=d97757)
+![Terraform](https://img.shields.io/badge/Terraform-d97757?style=for-the-badge&logo=terraform&logoColor=faf9f5&labelColor=d97757)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-d97757?style=for-the-badge&logo=githubactions&logoColor=faf9f5&labelColor=d97757)
+![Linux](https://img.shields.io/badge/Linux-d97757?style=for-the-badge&logo=linux&logoColor=faf9f5&labelColor=d97757)
+
+**Visualización**
+
+![Looker%20Studio](https://img.shields.io/badge/Looker%20Studio-141413?style=for-the-badge&logo=looker&logoColor=faf9f5)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-141413?style=for-the-badge&logo=powerbi&logoColor=faf9f5)
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=d97757" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&border=d97757" />
-    <img alt="A random programming quote, refreshed on every visit" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&border=d97757" />
-  </picture>
-</p>
+## Now
 
-<p align="center">
-  <sub><em>An idea I keep bumping into — refreshes on every visit.</em></sub>
-</p>
+- 🎤 Defendiendo **EDEM Student Hub** ante el tribunal del Hackathon EDEM-GFT 2026.
+- ☁️ Preparando la certificación **Google Cloud Associate Cloud Engineer**.
+- 📊 Iterando sobre **WalkRisk**: limpiando el pipeline Pub/Sub → Dataflow y refactorizando la capa Firestore.
+
+---
+
+![A random programming quote, refreshed on every visit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&border=d97757)
+
+*An idea I keep bumping into — refreshes on every visit.*
 
 ---
 
@@ -90,11 +88,9 @@ Trabajo principalmente en `Python` y `SQL`, con `dbt`, `Airflow` y `PySpark` par
 
 **BSc Business** — Universidad Nueva Esparta · 2015-2019
 
-<br/>
-
 ---
 
-## Certifications
+## Certifications roadmap
 
 Mi siguiente foco es **Google Cloud**. El camino corto hacia un rol Data Engineer en Europa pasa por aquí.
 
@@ -102,26 +98,16 @@ Mi siguiente foco es **Google Cloud**. El camino corto hacia un rol Data Enginee
 - **Associate Data Practitioner** — siguiente
 - **Professional Data Engineer** — meta a 12-18 meses
 
-<br/>
-
 ---
 
 ## Get in touch
 
-Si crees que encajo en algo que tienes abierto, escríbeme.
+Si crees que encajo en algo que tienes abierto, escríbeme. Respondo en menos de 24 h.
 
-**Email** [francisco92varas@gmail.com](mailto:francisco92varas@gmail.com)
-**LinkedIn** [linkedin.com/in/frankalvarezv](https://www.linkedin.com/in/frankalvarezv/)
-**Phone** +34 633 912 726
+**Email** <francisco92varas@gmail.com> &nbsp;·&nbsp; **LinkedIn** [linkedin.com/in/frankalvarezv](https://www.linkedin.com/in/frankalvarezv/) &nbsp;·&nbsp; **Phone** +34 633 912 726
 
-<br/>
-<br/>
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg" />
-  </picture>
-</p>
+![Snake animation](https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake.svg)
+
 
