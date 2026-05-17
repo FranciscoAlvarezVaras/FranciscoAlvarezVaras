@@ -15,11 +15,17 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:francisco92varas@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/frankalvarezv/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/FranciscoAlvarezVaras">GitHub</a>
+  <a href="mailto:francisco92varas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d97757?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=d97757" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/frankalvarezv/">
+    <img src="https://img.shields.io/badge/LinkedIn-788c5d?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=788c5d" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/FranciscoAlvarezVaras">
+    <img src="https://img.shields.io/badge/GitHub-141413?style=for-the-badge&logo=github&logoColor=faf9f5&labelColor=141413" alt="GitHub" />
+  </a>
 </p>
 
 <br/>
