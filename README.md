@@ -104,21 +104,15 @@ flowchart LR
 > Cada proyecto incluye diagrama de arquitectura, instrucciones de despliegue y decisiones técnicas documentadas.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     MIS REGLAS
+     ACHIEVEMENTS — TROPHIES
 ══════════════════════════════════════════════════════════════ -->
-## Mis reglas
+## Achievements unlocked
 
-> **No me fío del orquestador.** Sinks idempotentes y UPSERT con clave natural.
->
-> **Reprocesar todo cada noche es de vagos.** Incremental + merge, con tests de reconciliación.
->
-> **Si no corre en mi portátil, no corre en producción.** Docker Compose primero, cloud cuando toque.
->
-> **El código dice qué; el README dice por qué.** `DECISIONS.md` o no hubo decisión.
->
-> **Nadie te llama un domingo por falta de coverage.** Frescura y reconciliación antes que tests al límite.
->
-> **Sin logs estás ciego.** Observabilidad desde el día 1, features después.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FranciscoAlvarezVaras&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=d97757&text_color=faf9f5&background=141413&stroke=d97757" />
+  </a>
+</p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      FORMACIÓN
@@ -168,6 +162,9 @@ Si tienes una oportunidad **Data Engineer / Analytics Engineer / Data Analyst Ju
   </tr>
 </table>
 
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     SNAKE — auto-generado por GitHub Action
+══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoAlvarezVaras/FranciscoAlvarezVaras/output/github-snake-dark.svg" />
@@ -179,4 +176,3 @@ Si tienes una oportunidad **Data Engineer / Analytics Engineer / Data Analyst Ju
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,60:d97757,100:faf9f5&height=120&section=footer" />
 </p>
-
