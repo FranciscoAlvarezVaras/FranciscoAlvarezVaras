@@ -91,7 +91,7 @@ flowchart LR
 </table>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     PROYECTOS — solo tabla, sin pin cards
+     PROYECTOS
 ══════════════════════════════════════════════════════════════ -->
 ## Proyectos destacados
 
@@ -104,60 +104,21 @@ flowchart LR
 > Cada proyecto incluye diagrama de arquitectura, instrucciones de despliegue y decisiones técnicas documentadas.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     CÓMO PIENSO
+     MIS REGLAS
 ══════════════════════════════════════════════════════════════ -->
-## Cómo pienso los problemas
+## Mis reglas
 
-Los proyectos enseñan qué he construido; estos principios, cómo los abordo.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Idempotencia por defecto</strong><br/><br/>
-      <sub>Los sinks deben tolerar reintentos sin duplicar. Prefiero un <code>UPSERT</code> con clave natural antes que confiar en garantías del orquestador. Cuesta poco y evita el 80% de incidentes nocturnos.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Coste vs. corrección</strong><br/><br/>
-      <sub>Para datos que mutan retroactivamente (analytics, billing) prefiero <code>incremental + merge</code> sobre <code>full-refresh</code>, asumiendo el coste de tests de reconciliación. Reprocesar todo cada día es la respuesta fácil, no la buena.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Local-first dev</strong><br/><br/>
-      <sub>Para portfolios, experimentos y onboarding: Docker Compose &gt; cloud. Reproducible en un comando, coste cero, sin secrets que mantener. El cloud entra cuando el proyecto justifica IaC seria.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Documenta el porqué, no el qué</strong><br/><br/>
-      <sub>El código ya dice <em>qué</em> hace. Un <code>DECISIONS.md</code> con <strong>problema → opciones → elección → trade-off</strong> es lo que ahorra horas al siguiente que toque el repo. Incluido yo dentro de 6 meses.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Freshness &gt; coverage</strong><br/><br/>
-      <sub>En data pipelines lo que falla casi siempre es la frescura o la integridad de los datos, no la lógica de transformación. Mido SLAs y reconciliación antes que añadir tests unitarios al límite.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Observabilidad desde el día 1</strong><br/><br/>
-      <sub>Logs estructurados, métricas de filas in/out y alertas a Slack antes de pulir el modelo. Un pipeline sin observabilidad es una caja negra que solo descubres rota cuando alguien se queja.</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     STATS
-══════════════════════════════════════════════════════════════ -->
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FranciscoAlvarezVaras&show_icons=true&hide_border=true&count_private=true&bg_color=141413&title_color=d97757&text_color=faf9f5&icon_color=788c5d" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoAlvarezVaras&layout=compact&hide_border=true&langs_count=8&bg_color=141413&title_color=d97757&text_color=faf9f5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FranciscoAlvarezVaras&hide_border=true&background=141413&stroke=d97757&ring=d97757&fire=d97757&currStreakNum=faf9f5&currStreakLabel=d97757&sideNums=faf9f5&sideLabels=faf9f5&dates=788c5d" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoAlvarezVaras&theme=react-dark&hide_border=true&bg_color=141413&color=d97757&line=d97757&point=faf9f5&area=true&area_color=788c5d" />
-</p>
+> **No me fío del orquestador.** Sinks idempotentes y UPSERT con clave natural.
+>
+> **Reprocesar todo cada noche es de vagos.** Incremental + merge, con tests de reconciliación.
+>
+> **Si no corre en mi portátil, no corre en producción.** Docker Compose primero, cloud cuando toque.
+>
+> **El código dice qué; el README dice por qué.** `DECISIONS.md` o no hubo decisión.
+>
+> **Nadie te llama un domingo por falta de coverage.** Frescura y reconciliación antes que tests al límite.
+>
+> **Sin logs estás ciego.** Observabilidad desde el día 1, features después.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      FORMACIÓN
@@ -171,51 +132,19 @@ Los proyectos enseñan qué he construido; estos principios, cómo los abordo.
 | **BSc Business** | Universidad Nueva Esparta | 2015-2019 |
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     LEARNING STACK
+     CERTIFICACIONES GCP
 ══════════════════════════════════════════════════════════════ -->
-## Learning stack — en vivo
+## Certificaciones — Google Cloud
 
-Esto es lo que estoy leyendo, cursando y certificando ahora mismo.
+Mi siguiente foco profesional. Las certificaciones GCP son el camino directo hacia un rol Data Engineer en Europa.
 
-### Leyendo
+| Certificación | Estado |
+|---|---|
+| **Associate Cloud Engineer** | En estudio |
+| **Associate Data Practitioner** | Siguiente |
+| **Professional Data Engineer** | Meta a 12-18 meses |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Designing Data-Intensive Applications</strong><br/>
-      <sub>Martin Kleppmann · O'Reilly</sub><br/><br/>
-      <code>██████░░░░░░░░░░ 38%</code><br/>
-      <sub>Capítulo 4 — Encoding & Evolution</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Fundamentals of Data Engineering</strong><br/>
-      <sub>Joe Reis & Matt Housley · O'Reilly</sub><br/><br/>
-      <code>███████████░░░░░ 68%</code><br/>
-      <sub>Parte III — Ingestion & Transformation</sub>
-    </td>
-  </tr>
-</table>
-
-### Cursando
-
-<p>
-  <img src="https://img.shields.io/badge/MSc%20Data%20Analytics-EDEM-d97757?style=flat-square&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-en%20curso-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt%20Fundamentals-completado-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-explorando-50E3C2?style=flat-square&logo=apache&logoColor=white" />
-</p>
-
-### Roadmap de certificaciones — Google Cloud
-
-| Certificación | Estado | Target |
-|---|:---:|:---:|
-| **Associate Cloud Engineer** | `███░░░░░░░ 30%` En progreso | Q3 2026 |
-| **Associate Data Practitioner** | `░░░░░░░░░░  0%` Siguiente | Q4 2026 |
-| **Professional Data Engineer** | `░░░░░░░░░░  0%` Meta | Q2 2027 |
-
-### Topics que estoy explorando este mes
-
-`BigQuery partitioning & clustering` · `dbt incremental models` · `data contracts` · `streaming con Spark Structured Streaming` · `observabilidad de pipelines (Great Expectations, Soda)`
+**Topics que estoy tocando:** `BigQuery partitioning & clustering` · `dbt incremental models` · `data contracts` · `streaming pipelines` · `observabilidad (Great Expectations, Soda)`
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      CONTACTO
@@ -250,5 +179,4 @@ Si tienes una oportunidad **Data Engineer / Analytics Engineer / Data Analyst Ju
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,60:d97757,100:faf9f5&height=120&section=footer" />
 </p>
-
 
